@@ -1,0 +1,561 @@
+[
+    {
+      "foodname":  "หมูทอดกระเทียม",
+      "spicy": false,
+      "seafood": false,
+      "avg_calories": 200,
+      "cuisine": "อาหาร",
+      "img" : "/img/food/Fried-Pork-Garlic.jpg" 
+    },
+    {
+      "foodname":  "ข้าวมันไก่",
+      "spicy": false,
+      "seafood": false,
+      "avg_calories": 515,
+      "cuisine": "อาหาร",
+      "img" : "/img/food/kao-mun-kai.jpg" 
+    },
+     {
+      "foodname":  "ข้าวหมูแดง",
+      "spicy": false,
+      "seafood": false,
+      "avg_calories": 438,
+      "cuisine": "อาหาร",
+      "img" : "/img/food/kao-muu-red.jpg" 
+    },
+    {
+     "foodname":  "ผัดผักบุ้ง",
+     "spicy": true,
+     "seafood": false,
+     "avg_calories": 210,
+     "cuisine": "อาหาร",
+     "img" : "/img/food/pad-phak-bung.jpg" 
+    },
+    {
+      "foodname":  "แกงจืดเต้าหู้หมูสับ",
+      "spicy": false,
+      "seafood": false,
+      "avg_calories": 80,
+      "cuisine": "อาหาร",
+      "img" : "/img/food/tofu-musub.jpg" 
+    },
+    {
+      "foodname" : "ผัดไทย",
+      "spicy" : false,
+      "seafood" : false,
+      "avg_calories" : 500,
+      "cuisine" : "อาหาร",
+      "img" : "/img/food/pad-thai.jpg" 
+    },
+    {
+      "foodname":  "เต้าหู้ทรงเครื่อง",
+      "spicy": false,
+      "seafood": false,
+      "avg_calories": 164,
+      "cuisine": "อาหาร",
+      "img" : "/img/food/tofu-sonkrung.jpg" 
+    },
+    {
+      "foodname":  "ต้มยำกุ้ง",
+      "spicy": true,
+      "seafood": true,
+      "avg_calories": 65,
+      "cuisine": "อาหาร",
+      "img" : "/img/food/tom-yum-kung.jpg" 
+    },
+    {
+      "foodname":  "ไข่พะโล้",
+      "spicy": false,
+      "seafood": false,
+      "avg_calories": 460,
+      "cuisine": "อาหาร",
+      "img" : "/img/food/kai-pha-lo.jpg" 
+    },
+    {
+      "foodname":  "ต้มยำปลากรอบ",
+      "spicy": true,
+      "seafood": true,
+      "avg_calories": 152,
+      "cuisine": "อาหาร",
+      "img" : "/img/food/yum-pra-krob.jpg" 
+    },
+    {
+      "foodname":  "แกงจืดรวมมิตรทะเล",
+      "spicy": false,
+      "seafood": true,
+      "avg_calories": 150,
+      "cuisine": "อาหาร",
+      "img" : "/img/food/mixed-sea.jpg" 
+    },
+    {
+      "foodname":  "ข้าวต้มปลา",
+      "spicy": false,
+      "seafood": true,
+      "avg_calories": 220,
+      "cuisine": "อาหาร",
+      "img" : "/img/food/kaoi-tom-pla.jpg" 
+    },
+    {
+      "foodname":  "ยำปลาดุกฟู",
+      "spicy": true,
+      "seafood": true,
+      "avg_calories": 323,
+      "cuisine": "อาหาร",
+      "img" : "/img/food/yum-pladuk-fuu.jpg" 
+    },
+    {
+      "foodname":  "ทอดมันปลา",
+      "spicy": false,
+      "seafood": true,
+      "avg_calories": 219,
+      "cuisine": "อาหาร",
+      "img" : "/img/food/tod-mun-pla.jpg" 
+    },
+    {
+      "foodname":  "น้ำพริกอ่อง",
+      "spicy": true,
+      "seafood": false,
+      "avg_calories": 520,
+      "cuisine": "อาหาร",
+      "img" : "/img/food/num-plik-oung.jpg" 
+    },
+    {
+      "foodname":  "ผัดผักบุ้งไฟแดง",
+      "spicy": true,
+      "seafood": false,
+      "avg_calories": 210,
+      "cuisine": "อาหาร",
+      "img" : "/img/food/fai-dang.jpg" 
+    },
+    {
+      "foodname":  "หูฉลาม",
+      "spicy": false,
+      "seafood": true,
+      "avg_calories": 361,
+      "cuisine": "อาหาร",
+      "img" : "/img/food/huu-chalam.jpg" 
+    },
+    {
+      "foodname":  "ขนมจีนน้ำยา",
+      "spicy": false,
+      "seafood": false,
+      "avg_calories": 65,
+      "cuisine": "อาหาร",
+      "img" : "/img/food/kanom-jean-num-yaa.jpg" 
+    },
+    {
+      "foodname":  "ห่อหมกปู",
+      "spicy": false,
+      "seafood": true,
+      "avg_calories": 340,
+      "cuisine": "อาหาร",
+      "img" : "/img/food/hoor-mok.jpg" 
+    },
+    {
+      "foodname": "กะเพราหมูสับ",
+      "spicy": true,
+      "seafood": false,
+      "avg_calories": 350,
+      "cuisine": "อาหาร",
+      "img" : "/img/food/kra-pao-musub.jpg" 
+    },
+    {
+      "foodname":  "แกงเขียวหวาน",
+      "spicy": true,
+      "seafood": false,
+      "avg_calories": 279,
+      "cuisine": "อาหาร",
+      "img" : "/img/food/green-curry.jpg" 
+    },
+    {
+      "foodname":  "ข้าวขาหมู",
+      "spicy": false,
+      "seafood": false,
+      "avg_calories": 531,
+      "cuisine": "อาหาร",
+      "img" : "/img/food/kao-kaa-muu.jpg" 
+    },
+    {
+      "foodname" : "ข้าวผัดหมู",
+      "spicy" : false,
+      "seafood" : false,
+      "avg_calories" : 500,
+      "cuisine" : "อาหาร",
+      "img" : "/img/food/kao-pad-muu.jpg" 
+    },
+    {
+      "foodname":  "ข้าวผัดไก่",
+      "spicy": false,
+      "seafood": false,
+      "avg_calories": 288,
+      "cuisine": "อาหาร",
+      "img" : "/img/food/kao-pad-kai.jpg" 
+    },
+    {
+      "foodname":  "ข้าวผัดทะเล",
+      "spicy": false,
+      "seafood": true,
+      "avg_calories": 321,
+      "cuisine": "อาหาร",
+      "img" : "/img/food/kao-pad-sea.jpg" 
+    },
+    {
+      "foodname":  "ยำปลากระป๋อง",
+      "spicy": true,
+      "seafood": true,
+      "avg_calories": 194,
+      "cuisine": "อาหาร",
+      "img" : "/img/food/yum-plakapong.jpg" 
+    },
+    {
+      "foodname" : "สเต็กหมู",
+      "spicy" : false,
+      "seafood" : false,
+      "avg_calories" : 200,
+      "cuisine" : "อาหาร",
+      "img" : "/img/food/pork-steak.jpg" 
+    },
+    {
+      "foodname" : "ทอดมันกุ้ง",
+      "spicy" : false,
+      "seafood" : true,
+      "avg_calories" : 200,
+      "cuisine" : "อาหาร",
+      "img" : "/img/food/tod-mun-kung.jpg" 
+    },
+    {
+      "foodname":  "ขนมปัง",
+      "spicy": false,
+      "seafood": false,
+      "avg_calories": 265,
+      "cuisine": "ของหวาน",
+      "img" : "/img/food/bread.jpg" 
+  },
+  {
+      "foodname":  "ช็อกโกแลต",
+      "spicy": false,
+      "seafood": false,
+      "avg_calories": 590,
+      "cuisine": "ของหวาน",
+      "img" : "/img/food/chocolate.jpg" 
+  },
+  {
+      "foodname":  "คุกกี้",
+      "spicy": false,
+      "seafood": false,
+      "avg_calories": 105,
+      "cuisine": "ของหวาน",
+      "img" : "/img/food/cookies.jpg" 
+  },
+  {
+      "foodname":  "เครป",
+      "spicy": false,
+      "seafood": false,
+      "avg_calories": 500,
+      "cuisine": "ของหวาน",
+      "img" : "/img/food/crape.jpg" 
+  },
+  {
+      "foodname":  "ไอศกรีม",
+      "spicy": false,
+      "seafood": false,
+      "avg_calories": 285,
+      "cuisine": "ของหวาน",
+      "img" : "/img/food/icecream.jpg" 
+  },
+  {
+      "foodname":  "เยลลี่",
+      "spicy": false,
+      "seafood": false,
+      "avg_calories": 176,
+      "cuisine": "ของหวาน",
+      "img" : "/img/food/jelly.jpg" 
+  },
+  {
+      "foodname":  "ข้าวเหนียวหมูปิ้ง",
+      "spicy": false,
+      "seafood": false,
+      "avg_calories": 200,
+      "cuisine": "อาหาร",
+      "img" : "/img/food/kao-neaw-ping.jpg" 
+  },
+  {
+    "foodname":  "ข้าวไข่เจียว",
+    "spicy": false,
+    "seafood": false,
+    "avg_calories": 370,
+    "cuisine": "อาหาร",
+    "img" : "/img/food/kao-kai-jeaw.jpg" 
+  },
+  {
+    "foodname":  "แกงกะหรี่",
+    "spicy": false,
+    "seafood": false,
+    "avg_calories": 870,
+    "cuisine": "อาหาร",
+    "img" : "/img/food/kang-curry.jpg" 
+  },
+  {
+    "foodname":  "ราเม็ง",
+    "spicy": false,
+    "seafood": false,
+    "avg_calories": 450,
+    "cuisine": "อาหาร",
+    "img" : "/img/food/ramen.jpg" 
+  },
+  {
+    "foodname":  "ข้าวซอย",
+    "spicy": true,
+    "seafood": false,
+    "avg_calories": 395,
+    "cuisine": "อาหาร",
+    "img" : "/img/food/kao-soi.jpg" 
+  },
+  {
+    "foodname":  "ต้มเลือดหมู",
+    "spicy": false,
+    "seafood": false,
+    "avg_calories": 240,
+    "cuisine": "อาหาร",
+    "img" : "/img/food/tom-blood.jpg" 
+  },
+  {
+    "foodname":  "ผัดซีอิ๊วไก่",
+    "spicy": false,
+    "seafood": false,
+    "avg_calories": 325,
+    "cuisine": "อาหาร",
+    "img" : "/img/food/pad-see-iew.jpg" 
+  },
+  {
+    "foodname":  "ต้มข่าไก่",
+    "spicy": true,
+    "seafood": false,
+    "avg_calories": 275,
+    "cuisine": "อาหาร",
+    "img" : "/img/food/tom-kaa-kai.jpg" 
+  },
+  {
+    "foodname":  "สปาเก็ตตี้คาโบนาร่า",
+    "spicy": false,
+    "seafood": false,
+    "avg_calories": 450,
+    "cuisine": "อาหาร",
+    "img" : "/img/food/kabonara.jpg" 
+  },
+  {
+    "foodname":  "ยำกุนเชียง",
+    "spicy": true,
+    "seafood": false,
+    "avg_calories": 250,
+    "cuisine": "อาหาร",
+    "img" : "/img/food/yum-kun-chieng.jpg" 
+  },
+  {
+    "foodname":  "ผัดคะน้าหมูกรอบ",
+    "spicy": true,
+    "seafood": false,
+    "avg_calories": 400,
+    "cuisine": "อาหาร",
+    "img" : "/img/food/pad-kana-muu-krob.jpg" 
+  },
+  {
+    "foodname":  "หอยนางรมทอดกระเทียม",
+    "spicy": false,
+    "seafood": true,
+    "avg_calories": 300,
+    "cuisine": "อาหาร",
+    "img" : "/img/food/hoi-tod-garic.jpg" 
+  },
+  {
+    "foodname":  "หมูกระทะ",
+    "spicy": false,
+    "seafood": false,
+    "avg_calories": 400,
+    "cuisine": "อาหาร",
+    "img" : "/img/food/muu-krata.jpg" 
+  },
+  {
+    "foodname":  "สเต็กเนื้อ",
+    "spicy": false,
+    "seafood": false,
+    "avg_calories": 350,
+    "cuisine": "อาหาร",
+    "img" : "/img/food/meat-steak.jpg" 
+  },
+  {
+    "foodname":  "ปีกไก่ทอดน้ำปลา",
+    "spicy": false,
+    "seafood": false,
+    "avg_calories": 350,
+    "cuisine": "อาหาร",
+    "img" : "/img/food/chicken-wing-tod-num-pla.jpg" 
+  },
+  {
+    "foodname":  "สลัดผักไก่ย่าง",
+    "spicy": false,
+    "seafood": false,
+    "avg_calories": 250,
+    "cuisine": "อาหาร",
+    "img" : "/img/food/chicken-salad.jpg" 
+  },
+  {
+    "foodname":  "แกงป่าไก่",
+    "spicy": true,
+    "seafood": false,
+    "avg_calories": 350,
+    "cuisine": "อาหาร",
+    "img" : "/img/food/kang-forest-chicken.jpg" 
+  },
+  {
+    "foodname":  "หมูน้ำตก",
+    "spicy": true,
+    "seafood": false,
+    "avg_calories": 350,
+    "cuisine": "อาหาร",
+    "img" : "/img/food/muu-numtok.jpg" 
+  },
+  {
+    "foodname":  "ปูผัดผงกระหรี่",
+    "spicy": false,
+    "seafood": true,
+    "avg_calories": 400,
+    "cuisine": "อาหาร",
+    "img" : "/img/food/puu-pad-curry.jpg" 
+  },
+  {
+    "foodname":  "กุ้งผัดพริกเผา",
+    "spicy": true,
+    "seafood": true,
+    "avg_calories": 250,
+    "cuisine": "อาหาร",
+    "img" : "/img/food/kung-pad-prik-pao.jpg" 
+  },
+  {
+    "foodname":  "ข้าวผัดปู",
+    "spicy": false,
+    "seafood": true,
+    "avg_calories": 350,
+    "cuisine": "อาหาร",
+    "img" : "/img/food/kao-pad-puu.jpg" 
+  },
+  {
+    "foodname":  "ปลากระพงนึ่งมะนาว",
+    "spicy": true,
+    "seafood": true,
+    "avg_calories": 250,
+    "cuisine": "อาหาร",
+    "img" : "/img/food/prakaphong-manow.jpg" 
+  },
+  {
+    "foodname":  "ก๋วยเตี๋ยวเรือ",
+    "spicy": false,
+    "seafood": false,
+    "avg_calories": 350,
+    "cuisine": "อาหาร",
+    "img" : "/img/food/noodles-boat.jpg" 
+  }, {
+    "foodname": "บิงซู",
+    "spicy": false,
+    "seafood": false,
+    "avg_calories": 500,
+    "cuisine": "ของหวาน",
+    "img" : "/img/food/bingsu.jpg"
+},
+{
+    "foodname": "ขนมโตเกียว",
+    "spicy": false,
+    "seafood": false,
+    "avg_calories": 150,
+    "cuisine": "ของหวาน",
+    "img" : "/img/food/tokyo.jpg"
+},
+{
+    "foodname": "ชูครีม",
+    "spicy": false,
+    "seafood": false,
+    "avg_calories": 130,
+    "cuisine": "ของหวาน",
+    "img" : "/img/food/cream-puffs.jpg"
+},
+{
+    "foodname": "ชานมไข่มุก",
+    "spicy": false,
+    "seafood": false,
+    "avg_calories": 255,
+    "cuisine": "ของหวาน",
+    "img" : "/img/food/bubble-tea.jpg"
+},
+{
+    "foodname": "โมจิ",
+    "spicy": false,
+    "seafood": false,
+    "avg_calories": 96,
+    "cuisine": "ของหวาน",
+    "img" : "/img/food/moji.jpg"
+},
+{
+    "foodname": "หมั่นโถว",
+    "spicy": false,
+    "seafood": false,
+    "avg_calories": 295,
+    "cuisine": "ของหวาน",
+    "img" : "/img/food/mantou.jpg"
+},
+{
+    "foodname": "ข้าวเหนียวมะม่วง",
+    "spicy": false,
+    "seafood": false,
+    "avg_calories": 325,
+    "cuisine": "ของหวาน",
+    "img" : "/img/food/kao-neaw-mango.jpg"
+},
+{
+    "foodname": "ข้าวเหนียวทุเรียน",
+    "spicy": false,
+    "seafood": false,
+    "avg_calories": 340,
+    "cuisine": "ของหวาน",
+    "img" : "/img/food/kao-neaw-durian.jpg"
+},
+{
+    "foodname": "กล้วยบวชชี",
+    "spicy": false,
+    "seafood": false,
+    "avg_calories": 250,
+    "cuisine": "ของหวาน",
+    "img" : "/img/food/banana-bude-she.jpg"
+},
+{
+    "foodname": "โดนัท",
+    "spicy": false,
+    "seafood": false,
+    "avg_calories": 20,
+    "cuisine": "ของหวาน",
+    "img" : "/img/food/donut.jpg"
+},
+{
+    "foodname": "มาการอง",
+    "spicy": false,
+    "seafood": false,
+    "avg_calories": 100,
+    "cuisine": "ของหวาน",
+    "img" : "/img/food/macaron.jpg"
+},
+{
+    "foodname": "เอแกลร์",
+    "spicy": false,
+    "seafood": false,
+    "avg_calories": 260,
+    "cuisine": "ของหวาน",
+    "img" : "/img/food/eclairs.jpg"
+},
+{
+    "foodname": "เฉาก๊วย",
+    "spicy": false,
+    "seafood": false,
+    "avg_calories": 90,
+    "cuisine": "ของหวาน",
+    "img" : "/img/food/black-jelly.jpg"
+}
+  ]

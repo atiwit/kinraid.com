@@ -1,0 +1,3 @@
+ReWriteEngine On
+RewriteCond %{REQUEST_FILENAME} !-f
+Rewriterule ^([^\.]+)$ $1.php [NC,L]
